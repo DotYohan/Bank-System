@@ -47,7 +47,7 @@ java BANKSYSTEM
 
 This will start the application. Interact with the program via the GUI prompts provided.
 
-================================================================================================
+=====================================================================================
 
 Common Errors and Fixes
 
@@ -69,7 +69,7 @@ If issues persist, download and install the latest Java Development Kit (JDK) fr
 
 Thank You!
 
-===============================================================================================================
+=========================================================================================
 
 Thank you for using the Bank System application! If you encounter any issues or have suggestions for improvement, 
 feel free to contribute or raise an issue on the GitHub repository. Enjoy banking securely and efficiently! :>
