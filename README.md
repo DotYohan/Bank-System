@@ -5,11 +5,17 @@ Good Day Users!!!
 
 System Requirements
 To run this program, ensure that your system meets the following requirements:
+    
     *Computer/Laptop
+    
     *Processor: Intel Core i3 or higher
+    
     *Memory: 4GB RAM or higher
+    
     *Storage: 100MB free space
+    
     *Java Development Kit (JDK): Ensure Java is installed on your computer.
+      
       --If not installed, download the latest JDK from Oracle's official website.
 
 Steps to Run the Program
