@@ -3,6 +3,8 @@ Welcome to the Bank System project! This is a Java-based application that simula
 
 Good Day Users!!!
 
+Download all Resources.
+
 System Requirements
 To run this program, ensure that your system meets the following requirements:
     
